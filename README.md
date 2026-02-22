@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>🌱 I’m currently learning Web D<br><br>
+🔭 I’m currently working on Projects<br>🌱 I had learned Web D<br><br>
 
 
 # 💻 Tech Stack:
